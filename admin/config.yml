@@ -2,7 +2,7 @@ backend:
   name: github
   repo: bach-khoi-mao-gia/1744955225859
   branch: main # Branch to update (optional; defaults to master)
-  local_backend: true
+  local_backend: false
 
 media_folder: "images"
 public_folder: "images"
